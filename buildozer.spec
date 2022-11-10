@@ -8,7 +8,7 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,avif
 
 version = 0.1
-requirements = python3,Kivy==2.1.0,Kivy-Garden==0.1.5,kivymd==1.1.1,Pillow==9.2.0,pillow-avif-plugin==1.3.1,avif==0.5.0
+requirements = python3,Kivy==2.1.0,kivymd==1.1.1,Pillow==9.2.0
 
 orientation = portrait
 fullscreen = 0
@@ -21,4 +21,4 @@ ios.ios_deploy_url = https://github.com/phonegap/ios-deploy
 ios.ios_deploy_branch = 1.7.0
 
 [buildozer]
-log_level = 1
+log_level = 0
