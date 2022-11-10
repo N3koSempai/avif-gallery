@@ -37,7 +37,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,attrs==22.1.0,avif==0.5.0,certifi==2022.9.24,cffi==1.15.1,charset-normalizer==2.1.1,docutils==0.19,idna==3.4,Kivy==2.1.0,Kivy-Garden==0.1.5,kivymd==1.1.1,Pillow==9.2.0,pillow-avif-plugin==1.3.1,pycparser==2.21,Pygments==2.13.0,requests==2.28.1,urllib3==1.26.12
+requirements = python3,avif==0.5.0,Kivy==2.1.0,kivymd==1.1.1,Pillow==9.2.0,pillow-avif-plugin==1.3.1
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
 # requirements.source.kivy = ../../kivy
