@@ -8,11 +8,11 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,avif
 
 version = 0.1
-requirements = python3,Pillow,Kivy==2.1.0,kivymd==1.1.1
+requirements = python3,Pillow,Kivy==2.1.0,kivymd==1.1.1,avif,pillow-avif-plugin
 
 orientation = portrait
 fullscreen = 0
-android.arch = armeabi-v7a
+android.archs = armeabi-v7a
 
 # iOS specific
 ios.kivy_ios_url = https://github.com/kivy/kivy-ios
